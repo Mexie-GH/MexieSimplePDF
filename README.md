@@ -1,4 +1,4 @@
-"# Mexie's Simple PDF Editor
+Mexie's Simple PDF Editor
 
 Mexie's Simple PDF Editor is a Python application for basic PDF editing.
 
