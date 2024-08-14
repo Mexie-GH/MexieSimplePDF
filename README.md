@@ -39,7 +39,7 @@ Mexie's Simple PDF Editor is a Python application for basic PDF editing.
 ## About
 Version 1  
 Created with ChatGPT  
-Follow me at [x.com/Mexie__](https://x.com/Mexie__) for randomness
+Follow me at [x.com/Mexie100100](https://x.com/Mexie100100) for randomness
 
 ## License
 MIT License" > README.md
